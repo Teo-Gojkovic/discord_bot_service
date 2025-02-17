@@ -1,8 +1,12 @@
 # Créer un service pour un bot discord en Java-Script
 
 ![Last update](https://img.shields.io/badge/Ubuntu_Server-22.04-orange.svg)
+![Last update](https://img.shields.io/badge/Node_JS-v22.14.0-green.svg)
+
 
 ![Last update](https://img.shields.io/badge/Last_update-17/02/2025-red.svg)
+
+
 
 ## Préaparation des dossiers
 
